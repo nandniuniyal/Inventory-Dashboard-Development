@@ -1,5 +1,6 @@
 # Inventory-Dashboard-Development
  Designed to assist Warehouse/In-plant Inventory Managers in controlling inventory levels and maintaining service levels
+
 Purpose: Designed to assist Warehouse/In-plant Inventory Managers in controlling inventory levels and maintaining service levels.
 
 Comprehensive Features: Integrated ABC and XYZ inventory classifications, allowing for effective categorization and management based on value and demand variability.
